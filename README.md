@@ -21,12 +21,6 @@ Project ini cocok untuk:
 
 ---
 
-## 📸 Preview (Optional)
-
-> Tambahkan screenshot aplikasi di sini agar repo lebih menarik
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 * **Flutter**
